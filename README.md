@@ -3,3 +3,4 @@ This project combines image recognition using YOLOv5 with conversational AI usin
 
 
 ###You can customize it by using your customized LLM for text response. This is a outline for creating Chatbot
+![image](https://github.com/user-attachments/assets/1e9c3fb0-32d0-4e47-b2b3-79208c8ba6d0)
